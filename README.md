@@ -17,16 +17,16 @@ Reverse
 Crypto -->
 
 - [**Web**](#Web)
-    - [**Login**](#login)
-    - [**I need to get the C00kies**](#i-need-to-get-cookies)
-    - [**EASY METHOD**](#easy-method)
-    - [**哥布林保衞部公告**](#哥布林保衞部公告)
+    - [**Login**](#web--login)
+    - [**I need to get the C00kies**](#web--i-need-to-get-the-c00kies)
+    - [**EASY METHOD**](#web--easy-method)
+    - [**哥布林保衞部公告**](#web--哥布林保衞部公告)
 
 - [**Reverse**](#Reverse)
-    - [**easyyyyyyyyyy**](#easyyyyyyyyyy)
+    - [**easyyyyyyyyyy**](#reverse--easyyyyyyyyyy)
 
 - [**Crypto**](#Crpyto)
-    - [**AES?**](#aes)
+    - [**AES?**](#crptyo--aes)
 
 ---------------------------------------------------------------------------
 
